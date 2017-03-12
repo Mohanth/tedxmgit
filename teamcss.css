@@ -1,0 +1,282 @@
+.ui.four.cards > .card {
+    width: calc( 25% - 1.5em );
+    margin-left: 0.75em;
+    margin-right: 0.75em;
+}
+semantic.css:24885
+.ui.cards > .card {
+    font-size: 1em;
+}
+semantic.css:23909
+.ui.cards > .card {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0.875em 0.5em;
+    float: none;
+}
+semantic.css:23890
+.ui.card:last-child {
+    margin-bottom: 0em;
+}
+semantic.css:23886
+.ui.card:first-child {
+    margin-top: 0em;
+}
+semantic.css:23852
+.ui.cards > .card, .ui.card {
+    max-width: 100%;
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 290px;
+    min-height: 0px;
+    background: #ffffff;
+    padding: 0em;
+    border: none;
+    border-radius: 0.28571429rem;
+    box-shadow: 0px 1px 3px 0px #d4d4d5, 0px 0px 0px 1px #d4d4d5;
+    -webkit-transition: box-shadow 0.1s ease, -webkit-transform 0.1s ease;
+    transition: box-shadow 0.1s ease, transform 0.1s ease;
+    z-index: '';
+}
+semantic.css:23877
+.ui.card {
+    margin: 1em 0em;
+}
+reset.css:19
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+semantic.css:29
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div.row.ui.four.stackable.cards
+grid.css:975
+.ui.centered.grid, .ui.centered.grid > .row, .ui.grid > .centered.row {
+    text-align: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+semantic.css:18369
+.ui.centered.grid, .ui.centered.grid > .row, .ui.grid > .centered.row {
+    text-align: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+grid.css:85
+.ui.grid > .row {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: inherit;
+    -webkit-justify-content: inherit;
+    -ms-flex-pack: inherit;
+    justify-content: inherit;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 100% !important;
+    padding: 0rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+semantic.css:17344
+.ui.grid > .row {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: inherit;
+    -webkit-justify-content: inherit;
+    -ms-flex-pack: inherit;
+    justify-content: inherit;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 100% !important;
+    padding: 0rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+Inherited from div.ui.centered.stackable.five.column.grid
+grid.css:974
+.ui.centered.grid, .ui.centered.grid > .row, .ui.grid > .centered.row {
+    text-align: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+semantic.css:18368
+.ui.centered.grid, .ui.centered.grid > .row, .ui.grid > .centered.row {
+    text-align: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+grid.css:17
+.ui.grid {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    padding: 0em;
+}
+semantic.css:17272
+.ui.grid {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    padding: 0em;
+}
+Inherited from body.pusher
+site.css:25
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    min-width: 320px;
+    background: #ffffff;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.4285em;
+    color: rgba(0, 0, 0, 0.87);
+    font-smoothing: antialiased;
+}
+semantic.css:526
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    min-width: 320px;
+    background: #ffffff;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.4285em;
+    color: rgba(0, 0, 0, 0.87);
+    font-smoothing: antialiased;
+}
+Inherited from html
+site.css:22
+html {
+    font-size: 14px;
+}
+reset.css:54
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+semantic.css:522
+html {
+    font-size: 14px;
+}
+semantic.css:68
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+reset.css:19
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+semantic.css:29
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+Pseudo ::after element
+semantic.css:23920
+.ui.cards:after, .ui.card:after {
+    display: block;
+    content: ' ';
+    height: 0px;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden;
+}
+reset.css:21
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+semantic.css:31
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+Pseudo ::selection element
+site.css:129
+::selection {
+    background-color: #cce2ff;
+    color: rgba(0, 0, 0, 0.87);
+}
+semantic.css:639
+::selection {
+    background-color: #cce2ff;
+    color: rgba(0, 0, 0, 0.87);
+}
